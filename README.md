@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @zvsvev
-- 👀 I’m interested in Blockchain and cryptocurrency development technology
-- 🌱 I’m currently learning Rust and Phyton
-- 📫 Reach me on <a href="https://www.facebook.com/zvsvev.id">Facebook</a>
+- 👋 Hi, I’m ulinnuha.eth
+- 📫 Reach me on <a href="https://www.instagram.com/zvsvev.id">Instagram</a>
