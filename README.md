@@ -1,2 +1,1 @@
 - 👋 Hi, I’m ulinnuha.eth
-- 📫 Reach me on <a href="https://www.instagram.com/zvsvev.id">Instagram</a>
