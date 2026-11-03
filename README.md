@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zvsvev&label=Profile%20views&color=0e75b6&style=flat" alt="zvsvev" /> </p>
 
-Currently learning **web3, FHE, and cybersecurity** — and having a good time doing it.
+Currently learning **web3, FHE, and cybersecurity**. Having a good time doing it.
 
 #### 💻 Programming Languages
 <p align="left">
