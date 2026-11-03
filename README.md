@@ -32,8 +32,8 @@ Currently learning **web3, FHE, and cybersecurity**. Having a good time doing it
 ---
 
 #### 🚀 Featured Projects
-- **[rigged-chess](https://github.com/zvsvev/rigged-chess)** — Chess against a computer that always wins, because it cheats.
-- **[goalscore](https://github.com/zvsvev/goalscore)** — GoalScore: AI-vs-AI football prediction arena on Solana.
+- **[rigged-chess](https://github.com/zvsvev/rigged-chess)**: chess against a computer that always wins, because it cheats.
+- **[goalscore](https://github.com/zvsvev/goalscore)**: GoalScore, an AI-vs-AI football prediction arena on Solana.
 
 ---
 
