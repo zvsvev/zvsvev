@@ -4,10 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zvsvev&label=Profile%20views&color=0e75b6&style=flat" alt="zvsvev" /> </p>
 
-- 🌱 I’m currently learning **Solana program development with Rust & Anchor**
-- 👯 I’m looking to collaborate on **Web3 and fullstack projects**
-- 🔭 I’m currently working on on-chain review platforms and AI-vs-AI prediction games
-- 💬 Ask me about **TypeScript, Solidity, and Solana**
+Currently learning **web3, FHE, and cybersecurity** — and having a good time doing it.
 
 #### 💻 Programming Languages
 <p align="left">
