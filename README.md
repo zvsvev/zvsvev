@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ulinnuha.eth&fontSize=70&fontColor=ffffff&desc=Student%20at%20Universitas%20Gadjah%20Mada&descSize=22&descAlign=50&descAlignY=62" alt="ulinnuha.eth" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zvsvev&label=Profile%20views&color=0e75b6&style=flat" alt="zvsvev" /> </p>
 
 Currently learning **web3, FHE, and cybersecurity**. Occasionally they learn me instead.
